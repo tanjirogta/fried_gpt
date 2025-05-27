@@ -1,2 +1,2 @@
-# fried_gpt
-Tool to get the damn invisible Chars out of Text or Code you get from ChatGPT.
+# 🍟 Fried_GPT
+Fried_GPT is a tool to get the damn invisible chars out of text or code you get from ChatGPT.
